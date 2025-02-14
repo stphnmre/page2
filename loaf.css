@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loaf1{
+    background-image: url(./images/IMG_2510\ copy.jpeg);
+    color: white;
+}
+.loaf1 p{
+    color: transparent;
+    text-wrap: wrap;
+}
+.loaf1 h1 {
+    text-shadow: 2px 2px 1px black;
+
+}
